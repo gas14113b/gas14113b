@@ -1,4 +1,13 @@
-## Hi there 👋
+## Gabriele Oliveira
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+00001250939021sp@al.educacao.gov.sp.br
 
 <!--
 **gas14113b/gas14113b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
